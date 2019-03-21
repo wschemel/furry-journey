@@ -5,7 +5,7 @@
 </a> A great course on GitHub
 
 ## Learn GitHUb
-In htis course you, will learn how to use GitHub successfully
+In this course you, will learn how to use GitHub successfully
 
 ### The basics
 - Sample Item 1
